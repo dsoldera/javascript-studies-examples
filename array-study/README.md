@@ -6,7 +6,8 @@
 
 ## 10 ARRAY FUNCTION PARA GANHAR TEMPO
 
-- https://www.youtube.com/watch?v=-f5E5Lhocuo
+- [DONE] https://www.youtube.com/watch?v=-f5E5Lhocuo
+- check file examples.js
 
 ## SCOPE
 
@@ -14,4 +15,4 @@
 
 ## COMANDOS LINUX
 
-- https://www.youtube.com/watch?v=9pd0524x6y8
+- [DONE] https://www.youtube.com/watch?v=9pd0524x6y8
